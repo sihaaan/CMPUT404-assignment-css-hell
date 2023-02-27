@@ -1,16 +1,15 @@
 Assignment: CSS Hell
 ====================
 
-You will skin 3 project gutenberg stories with custom CSS.
+## Part 1: Gutenberg Reskin
 
-You will skin 2 versions of a possible professional homepage for your
-self with 2 versions of CSS.
+### Changes Made
 
-Read requirements.org
-
-Read this comic http://theoatmeal.com/comics/design_hell
-
-git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
+1. Theme paragraphs: changed font family to "Georgia", serif, font size to 18px, line height to 1.5, text alignment to center, and added margin of 20px at top and bottom.
+2. Theme header tags: changed font family to "Georgia", serif, font weight to bold, text alignment to center, and added margin of 20px at top and bottom. Also underlined the headers.
+3. Theme images and image captions: changed font style to italic, font size to 14px, and added margin of 10px at top.
+4. Change the colour scheme: changed body background color to antiquewhite and text color to #333.
+5. Added custom styles for the Gutenberg documents: added a container class to limit the maximum width of the content to 800px and centered it on the page.
 
 License/Copyright
 =================

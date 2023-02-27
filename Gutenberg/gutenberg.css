@@ -1,0 +1,47 @@
+/* Theme paragraphs */
+p {
+    font-family: "Georgia", serif;
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  /* Theme header tags */
+  h1, h2, h3 {
+    font-family: "Georgia", serif;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  /* Theme images and images captions */
+  img {
+    display: block;
+    width: 30% !important;
+    height: 30% !important;
+    margin: 0 auto;
+  }
+  
+  figcaption {
+    font-style: italic;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  
+  /* Change the colour scheme */
+  body {
+    background-color: antiquewhite;
+    color: #333;
+  }
+  
+  a {
+    color: #0074D9;
+  }
+  
+  /* Add custom styles for the gutenberg documents */
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
